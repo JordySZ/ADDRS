@@ -376,5 +376,3 @@ Haz Push a la rama (git push origin feature/NuevaFuncionalidad).
 
 Abre un Pull Request.
 
-📄 Licencia
-Este proyecto está bajo la Licencia MIT - ver el archivo LICENSE.md para más detalles.
