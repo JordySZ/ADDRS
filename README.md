@@ -516,7 +516,3 @@ pytest
 * [Guía de Despliegue en Producción](./docs/DEPLOYMENT.md)
 
 ---
-
-## 📄 Licencia
-
-Este proyecto está bajo la Licencia MIT. Ver el archivo [LICENSE](LICENSE) para más detalles.
