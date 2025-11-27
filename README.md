@@ -207,7 +207,7 @@ Si tienes Docker instalado, puedes levantar todos los servicios de backend y bas
 1.  Crea un archivo `.env` en la raíz basado en el `.env.example`.
 2.  Ejecuta:
 
-```bash
+
 docker-compose up --build
 
 Markdown
@@ -249,7 +249,7 @@ Si tienes Docker instalado, puedes levantar todos los servicios de backend y bas
 1.  Crea un archivo `.env` en la raíz basado en el `.env.example`.
 2.  Ejecuta:
 
-```bash
+
 docker-compose up --build
 Esto levantará:
 
